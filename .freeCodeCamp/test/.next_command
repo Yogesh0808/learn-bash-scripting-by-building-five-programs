@@ -401,3 +401,6 @@ echo $VAR
 [[ $VAR == \?$ ]]
 [[ $VAR == "\?$" ]]
 [[ $VAR =~ \?$ ]]
+__vsc_prompt_cmd_original
+[[ test? =~ /?$ ]]
+[[ test? =~ \?$ ]]
