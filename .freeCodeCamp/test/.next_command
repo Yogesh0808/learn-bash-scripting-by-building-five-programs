@@ -132,3 +132,8 @@ man sleep
 sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
+git remote -v
+git remote set-url origin https://github.com/Yogesh0808/learn-bash-scripting-by-building-five-programs.git
+get fetch upstream
+git fetch upstream
+git merge upstream/main
