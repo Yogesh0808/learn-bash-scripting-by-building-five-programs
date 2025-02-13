@@ -160,3 +160,5 @@ declare -p
 declare -RANDOM
 echo $RANDOM
 ./bingo.sh
+./bingo.sh
+./bingo.sh
