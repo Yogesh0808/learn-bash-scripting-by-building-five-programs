@@ -60,3 +60,9 @@ help
 __vsc_prompt_cmd_original
 help
 help test ==
+__vsc_prompt_cmd_original
+./countdown.sh 4 arg2 arg3
+./countdown.sh 4 arg2 arg3
+./countdown.sh 4 arg2 arg3
+./countdown.sh 4 arg2 arg3
+./countdown.sh 4 arg2 arg3
