@@ -55,3 +55,8 @@ help
 help if
 help [[expression]]
 help [[ expression ]]
+hhhelp
+help
+__vsc_prompt_cmd_original
+help
+help test ==
