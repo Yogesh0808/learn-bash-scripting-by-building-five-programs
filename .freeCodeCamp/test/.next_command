@@ -119,3 +119,6 @@ help [[
 ./countdown.sh 5
 ./countdown.sh 0
 help
+./countdown.sh 0
+./countdown.sh 6
+./countdown.sh 6
