@@ -149,3 +149,4 @@ chmod +x bingo.sh
 ./ bingo.sh
 ./ bingo.sh
 ./bingo.sh
+printenv
