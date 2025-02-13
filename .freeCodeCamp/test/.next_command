@@ -416,3 +416,4 @@ touch five.sh
 chmod +x five.sh
 ./fove.sh
 ./five.sh
+clear
