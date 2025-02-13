@@ -157,3 +157,5 @@ printenv
 echo $NUMBER
 echo $LANG
 declare -p
+declare -RANDOM
+echo $RANDOM
