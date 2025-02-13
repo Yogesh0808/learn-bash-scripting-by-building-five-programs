@@ -156,3 +156,4 @@ printenv
 ./bingo.sh
 echo $NUMBER
 echo $LANG
+declare -p
