@@ -384,3 +384,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh
 ./fortune.sh
 help [[
+[[ hello == hello ]]
