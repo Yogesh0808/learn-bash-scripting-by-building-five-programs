@@ -108,3 +108,4 @@ help test
 [[ -e countdown.sh ]]
 __vsc_prompt_cmd_original
 [[ -x countdown.sh ]]
+help [[
