@@ -137,3 +137,7 @@ git remote set-url origin https://github.com/Yogesh0808/learn-bash-scripting-by-
 get fetch upstream
 git fetch upstream
 git merge upstream/main
+./countdown.sh 3
+./countdown.sh 3
+./countdown.sh 3
+./countdown.sh 3
