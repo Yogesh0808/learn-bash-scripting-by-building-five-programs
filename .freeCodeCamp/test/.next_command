@@ -130,3 +130,4 @@ ls --color=auto /bin
 man
 man sleep
 sleep 3
+./countdown.sh 3
