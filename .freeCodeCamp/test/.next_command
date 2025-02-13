@@ -32,3 +32,4 @@ t
 touch countdown.sh
 ls --color=auto -l
 chmod +x countdown.sh
+which bash
