@@ -159,3 +159,4 @@ echo $LANG
 declare -p
 declare -RANDOM
 echo $RANDOM
+./bingo.sh
