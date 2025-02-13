@@ -52,3 +52,6 @@ help if
 ./countdown.sh 4 arg2 arg3
 ./countdown.sh 5 arg2 arg3
 help
+help if
+help [[expression]]
+help [[ expression ]]
