@@ -100,3 +100,11 @@ help test
 [[ -n bad_file.txt ]]
 [[ -n bad_file.txt ]]
 [[ -a bad_file.txt ]]
+help
+help ls
+info ls
+help test
+[[ -e countdown.sh ]]
+[[ -e countdown.sh ]]
+__vsc_prompt_cmd_original
+[[ -x countdown.sh ]]
